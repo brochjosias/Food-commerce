@@ -8,7 +8,7 @@ Tecnologias Utilizadas: Linguagens de Programação: Node.js, TypeScript; Framew
 
 Configuração do Ambiente de Desenvolvimento, siga estas etapas:
 
-Clone o Repositório: Code, Download
+Faça o download do repositório
 
 Em seu ambiente de desenvolvimento:
 
