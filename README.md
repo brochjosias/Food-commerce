@@ -14,14 +14,6 @@ Faça o download do repositório
 
 Em seu ambiente de desenvolvimento:
 
---FRONT-END: cd food-commerce
-
-Instale as Dependências: npm install
-
-Inicie o Back-end: npm run start
-
-Assim q carregar aparecerá o sistema seu navegador padrão
-
 --BACK-END: cd food-commerce-backend
 
 Instale as Dependências: npm install
@@ -33,3 +25,11 @@ Suba o banco: docker-compose up -d
 Migre o prisma para o banco: npm run db:migrate
 
 Inicie o Back-end: npm run dev
+
+--FRONT-END: cd food-commerce
+
+Instale as Dependências: npm install
+
+Inicie o Back-end: npm run start
+
+Assim q carregar aparecerá o sistema seu navegador padrão
