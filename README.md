@@ -30,6 +30,6 @@ Inicie o Back-end: npm run dev
 
 Instale as Dependências: npm install
 
-Inicie o Back-end: npm run start
+Inicie o Front-end: npm run start
 
 Assim q carregar aparecerá o sistema seu navegador padrão
