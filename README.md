@@ -8,7 +8,7 @@ Tecnologias Utilizadas: Linguagens de Programação: Node.js, TypeScript; Framew
 
 Configuração do Ambiente de Desenvolvimento, siga estas etapas:
 
-Clone o Repositório: git clone https://github.com/178224JB/EcommerceSuplementos.git
+Clone o Repositório: Code, Download
 
 Em seu ambiente de desenvolvimento:
 
