@@ -2,7 +2,7 @@
 
 Bem-vindo ao Food-commmerce! Este é um projeto de e-commerce desenvolvido para fazer pedidos de comida.
 
-Visão Geral: O Food-commerce é uma plataforma para pedidos de fast-food online, proporcionando uma experiência prática e eficiente. Oferece soluções abrangentes para facilitar a experiência de compra.
+Visão Geral: O Food-commerce é uma plataforma para pedidos de fast-food online, proporciona uma experiência prática e eficiente. Oferece soluções abrangentes para facilitar a experiência de compra.
 
 Funcionalidades: Catálogo de Produtos, Categorias, Detalhes de Produtos, Adicionar ao Carrinho, Atualizar carrinho, Finalizar Compra, Checkout, Gerenciamento de Pedido, Suporte ao Cliente.
 
