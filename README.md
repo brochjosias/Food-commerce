@@ -4,6 +4,8 @@ Bem-vindo ao Food-commmerce! Este é um projeto de e-commerce desenvolvido para 
 
 Visão Geral: O Food-commerce é um sistema pedidos de fast-food online. Ele oferece uma variedade de funcionalidades, incluindo a gestão de produtos, categorias, gerenciamento de pedidos, entre outros.
 
+Funcionalidades: Catálogo de Produtos, Categorias, Detalhes de Produtos, Adicionar ao Carrinho, Atualizar carrinho, Finalizar Compra, Checkout, Gerenciamento de Pedido, Suporte ao Cliente...
+
 Tecnologias Utilizadas: Linguagens de Programação: Node.js, TypeScript; Frameworks: Express, React; Banco de Dados: Docker + PostegreSQL; Outras Tecnologias: Sistema de validação + Asaas (Gateway de Pagamento).
 
 Configuração do Ambiente de Desenvolvimento, siga estas etapas:
@@ -31,5 +33,3 @@ Suba o banco: docker-compose up -d
 Migre o prisma para o banco: npm run db:migrate
 
 Inicie o Back-end: npm run dev
-
-Funcionalidades: Catálogo de Produtos, Categorias, Detalhes de Produtos, Adicionar ao Carrinho, Atualizar carrinho, Finalizar Compra, Checkout, Gerenciamento de Pedido, Suporte ao Cliente...
