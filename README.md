@@ -6,7 +6,7 @@ Visão Geral: O Food-commerce é uma plataforma para pedidos de fast-food online
 
 Funcionalidades: Catálogo de Produtos, Categorias, Detalhes de Produtos, Adicionar ao Carrinho, Atualizar carrinho, Finalizar Compra, Checkout, Gerenciamento de Pedido, Suporte ao Cliente.
 
-Tecnologias Utilizadas: Linguagens de Programação: TypeScript, HTML e CSS; Frameworks: Express, React; Banco de Dados: Docker + PostegreSQL; Outras Tecnologias: Sistema de validação + Asaas (Gateway de Pagamento).
+Tecnologias Utilizadas: Linguagens de Programação: TypeScript, HTML e CSS; Framework: React; Banco de Dados: Docker + PostegreSQL; Outras Tecnologias: Sistema de validação + Asaas (Gateway de Pagamento).
 
 Configuração do Ambiente de Desenvolvimento, siga estas etapas:
 
