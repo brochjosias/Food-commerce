@@ -1,35 +1,88 @@
-# Food-commerce
+# Food-Commerce
 
-Bem-vindo ao Food-commmerce! Este é um projeto de e-commerce desenvolvido para fazer pedidos de comida.
+Bem-vindo ao Food-Commerce! Este é um projeto de e-commerce desenvolvido para fazer pedidos de comida.
 
-Visão Geral: O Food-commerce é uma plataforma para pedidos de fast-food online, proporciona uma experiência prática e eficiente. Oferece soluções abrangentes para facilitar a experiência de compra.
+## Visão Geral
 
-Funcionalidades: Catálogo de Produtos, Categorias, Detalhes de Produtos, Adicionar ao Carrinho, Atualizar carrinho, Finalizar Compra, Checkout, Gerenciamento de Pedido, Suporte ao Cliente.
+O Food-Commerce é uma plataforma para pedidos de fast-food online, proporcionando uma experiência prática e eficiente. Oferece soluções abrangentes para facilitar a experiência de compra.
 
-Tecnologias Utilizadas: Linguagens de Programação: TypeScript, HTML e CSS; Framework: React; Banco de Dados: Docker + PostegreSQL; Outras Tecnologias: Sistema de validação + Asaas (Gateway de Pagamento).
+## Funcionalidades
 
-Configuração do Ambiente de Desenvolvimento, siga estas etapas:
+Catálogo de Produtos
+Categorias
+Detalhes de Produtos
+Adicionar ao Carrinho
+Atualizar Carrinho
+Finalizar Compra
+Checkout
+Gerenciamento de Pedido
+Suporte ao Cliente
 
-Faça o download do repositório;
+## Tecnologias Utilizadas
 
-Em seu ambiente de desenvolvimento:
+Linguagens de Programação: _TypeScript_, _HTML_, _CSS_
+Framework: _React_
+Banco de Dados: _Docker + PostgreSQL_
+Outras Tecnologias: _Sistema de Validação_, _Asaas (Gateway de Pagamento)_
 
---BACK-END: cd food-commerce-backend;
+## Configuração do Ambiente de Desenvolvimento
 
-Instale as Dependências: npm install;
+Siga estas etapas:
 
-Abra o Docker-desktop;
+Faça o download do repositório
 
-Suba o banco: docker-compose up -d;
+Em seu ambiente de desenvolvimento
 
-Migre o prisma para o banco: npm run db:migrate;
+**BACK-END:**
 
-Inicie o Back-end: npm run dev.
+```bash
+cd food-commerce-backend
+```
 
---FRONT-END: cd food-commerce;
+Instale as Dependências:
 
-Instale as Dependências: npm install;
+```bash
+npm install
+```
 
-Inicie o Front-end: npm run start;
+Abra o Docker Desktop
 
-Assim q carregar aparecerá o sistema seu navegador padrão.
+Suba o banco:
+
+```bash
+docker-compose up -d
+```
+
+Migre o Prisma para o banco:
+
+```bash
+npm run db
+```
+
+Inicie o Back-end:
+
+```bash
+npm run dev
+```
+
+**FRONT-END:**
+
+```bash
+cd food-commerce
+```
+
+Instale as Dependências:
+
+```bash
+npm install
+```
+
+Inicie o Front-end:
+
+```bash
+npm run start
+```
+
+Acesse o sistema
+
+Assim que carregar, o sistema será exibido no seu navegador padrão.
