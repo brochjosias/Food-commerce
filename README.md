@@ -83,4 +83,4 @@ Inicie o Front-end:
 npm run start
 ```
 
-Acesse o sistema e assim que carregar, o sistema será exibido no seu navegador padrão.
+Assim que carregar, o sistema será exibido no seu navegador padrão.
