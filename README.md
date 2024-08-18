@@ -25,9 +25,7 @@ Framework: _React_
 Banco de Dados: _Docker + PostgreSQL_
 Outras Tecnologias: _Sistema de Validação_, _Asaas (Gateway de Pagamento)_
 
-## Configuração do Ambiente de Desenvolvimento
-
-Faça o download do repositório e em seu ambiente de desenvolvimento:
+## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
 **BACK-END:**
 
