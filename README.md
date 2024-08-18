@@ -27,11 +27,7 @@ Outras Tecnologias: _Sistema de Validação_, _Asaas (Gateway de Pagamento)_
 
 ## Configuração do Ambiente de Desenvolvimento
 
-Siga estas etapas:
-
-Faça o download do repositório
-
-Em seu ambiente de desenvolvimento
+Faça o download do repositório e em seu ambiente de desenvolvimento:
 
 **BACK-END:**
 
