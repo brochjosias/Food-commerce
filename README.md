@@ -20,10 +20,13 @@ Suporte ao Cliente
 
 ## Tecnologias Utilizadas
 
-Linguagens de Programação: _TypeScript_, _HTML_, _CSS_
-Framework: _React_
-Banco de Dados: _Docker + PostgreSQL_
-Outras Tecnologias: _Sistema de Validação_, _Asaas (Gateway de Pagamento)_
+- TypeScript
+- HTML
+- CSS
+- React
+- Docker
+- PostgreSQL
+- Asaas (Gateway de Pagamento)
 
 ## Faça o download do repositório e em seu ambiente de desenvolvimento:
 
