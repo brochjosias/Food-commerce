@@ -20,10 +20,10 @@ O Food-Commerce foi criado para tornar suas refeições ainda mais acessíveis. 
 
 ## Tecnologias Utilizadas
 
+- React
 - TypeScript
 - HTML
 - CSS
-- React
 - Docker
 - PostgreSQL
 - Asaas (Gateway de Pagamento)
@@ -42,9 +42,7 @@ Instale as Dependências:
 npm install
 ```
 
-Abra o Docker Desktop
-
-Suba o banco:
+Abra o Docker Desktop e em seguida Suba o banco em seu ambiente:
 
 ```bash
 docker-compose up -d
