@@ -1,22 +1,22 @@
 # Food-Commerce
 
-Bem-vindo ao Food-Commerce! Este é um projeto de e-commerce desenvolvido para fazer pedidos de comida.
+Bem-vindo ao Food-Commerce! Este é um projeto de e-commerce desenvolvido para restaurantes fast-food.
 
 ## Visão Geral
 
-O Food-Commerce é uma plataforma para pedidos de fast-food online, proporcionando uma experiência prática e eficiente. Oferece soluções abrangentes para facilitar a experiência de compra.
+O Food-Commerce foi criado para tornar suas refeições ainda mais acessíveis. É uma plataforma de pedidos online de fast-food, pensada para oferecer conveniência e rapidez, desde a escolha do seu prato favorito até a finalização do pedido. Tudo para facilitar a sua vida e garantir uma experiência de compra simples e agradável.
 
 ## Funcionalidades
 
-Catálogo de Produtos
-Categorias
-Detalhes de Produtos
-Adicionar ao Carrinho
-Atualizar Carrinho
-Finalizar Compra
-Checkout
-Gerenciamento de Pedido
-Suporte ao Cliente
+- Catálogo de Produtos
+- Categorias
+- Detalhes de Produtos
+- Adicionar ao Carrinho
+- Atualizar Carrinho
+- Finalizar Compra
+- Checkout
+- Gerenciamento de Pedido
+- Suporte ao Cliente
 
 ## Tecnologias Utilizadas
 
@@ -48,6 +48,12 @@ Suba o banco:
 
 ```bash
 docker-compose up -d
+```
+
+Crie o seu servidor no Postgres com os dados que constam no package.json:
+
+```bash
+Verifique se o banco "develop" foi criado
 ```
 
 Migre o Prisma para o banco:
