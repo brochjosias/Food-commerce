@@ -2,7 +2,8 @@
 
 Bem-vindo ao Food-Commerce! Este é um projeto de e-commerce desenvolvido para restaurantes fast-food.
 
-![Delicioso Hambúrguer](./imagens/hamburguer.png)
+| ![Imagem 1](./imagens/hamburguer.png) | ![Imagem 2](./imagens/pizza.png) | ![Imagem 3](./imagens/carrinho.png) | ![Imagem 4](./imagens/dados.png) | ![Imagem 5](./imagens/compra%20finalizada.png) |
+| ------------------------------------- | -------------------------------- | ----------------------------------- | -------------------------------- | ---------------------------------------------- |
 
 ## Visão Geral
 
