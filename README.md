@@ -2,6 +2,8 @@
 
 Bem-vindo ao Food-Commerce! Este é um projeto de e-commerce desenvolvido para restaurantes fast-food.
 
+![Delicioso Hambúrguer](./imagens/hamburguer.png)
+
 ## Visão Geral
 
 O Food-Commerce foi criado para tornar suas refeições ainda mais acessíveis. É uma plataforma de pedidos online de fast-food, pensada para oferecer conveniência e rapidez, desde a escolha do seu prato favorito até a finalização do pedido. Tudo para facilitar a sua vida e garantir uma experiência de compra simples e agradável.
